@@ -1,0 +1,80 @@
+syntax = "proto3";
+
+package reef.rpc;
+
+service REEFService {
+  // load a DNN model
+  rpc LoadModel (LoadModelRequest) returns (LoadModelReply) {}
+
+  // create a Task queue
+  rpc SetPriority (SetPriorityRequest) returns (SetPriorityReply) {} 
+
+  // register shared memory
+  rpc RegisterBlob (RegisterBlobRequest) returns (RegisterBlobReply) {}
+
+  // memcpy device to host
+  rpc GetBlob (GetBlobRequest) returns (GetBlobReply) {}
+
+  // memcpy host to device
+  rpc SetBlob (SetBlobRequest) returns (SetBlobReply) {}
+
+  // create an inference task
+  rpc Infer (InferRequest) returns (InferReply) {}
+}
+
+message LoadModelRequest {
+  string dir = 1;
+  string name = 2;
+  int32 qid = 3;
+}
+
+message LoadModelReply {
+  bool succ = 1; // TODO: enums
+  int32 mid = 2;
+}
+
+message SetPriorityRequest {
+  bool rt = 1;
+}
+
+message SetPriorityReply {
+  bool succ = 1;
+  int32 qid = 2;
+}
+
+message RegisterBlobRequest {
+  int32 mid = 1;
+  string name = 2;
+}
+
+message RegisterBlobReply {
+  bool succ = 1;
+  string key = 2;
+  int64 size = 3;
+}
+
+message GetBlobRequest {
+  string key = 1;
+}
+
+message GetBlobReply {
+  bool succ = 1; 
+}
+
+message SetBlobRequest {
+  string key = 1;
+}
+
+message SetBlobReply {
+  bool succ = 1; 
+}
+
+message InferRequest {
+  int32 mid = 1;
+  bool async = 2;
+}
+
+message InferReply {
+  bool succ = 1;
+  int32 tid = 2;
+}

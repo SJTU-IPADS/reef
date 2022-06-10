@@ -1,0 +1,72 @@
+{
+    "storage": [
+        {
+            "name": "a",
+            "stype": "float32",
+            "size": 8192
+        },
+        {
+            "name": "b",
+            "stype": "float32",
+            "size": 8192
+        },
+        {
+            "name": "temp",
+            "stype": "float32",
+            "size": 8192
+        },
+        {
+            "name": "c",
+            "stype": "float32",
+            "size": 8192
+        },
+        {
+            "name": "output",
+            "stype": "float32",
+            "size": 8192
+        }
+    ],
+    "kernels": [
+        {
+            "name": "add",
+            "launch_params": [
+                64,
+                1,
+                1,
+                4,
+                8,
+                4
+            ],
+            "args": [
+                1,
+                0,
+                2
+            ]
+        },
+        {
+            "name": "multiply",
+            "launch_params": [
+                64,
+                1,
+                1,
+                4,
+                8,
+                4
+            ],
+            "args": [
+                2,
+                3,
+                4
+            ]
+        }
+    ],
+    "args": [
+        0,
+        1,
+        3
+    ],
+    "shared_memory": {
+        "add": 1024,
+        "multiply": 1024
+    }
+}

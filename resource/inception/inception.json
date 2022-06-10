@@ -1,0 +1,3711 @@
+{
+    "storage": [
+        {
+            "name": "data",
+            "size": 268203,
+            "stype": "float32"
+        },
+        {
+            "name": "p0",
+            "size": 864,
+            "stype": "float32"
+        },
+        {
+            "name": "p1",
+            "size": 32,
+            "stype": "float32"
+        },
+        {
+            "name": "null",
+            "size": 1382976,
+            "stype": "float32"
+        },
+        {
+            "name": "p2",
+            "size": 16384,
+            "stype": "float32"
+        },
+        {
+            "name": "p3",
+            "size": 32,
+            "stype": "float32"
+        },
+        {
+            "name": "null",
+            "size": 967872,
+            "stype": "float32"
+        },
+        {
+            "name": "p4",
+            "size": 32768,
+            "stype": "float32"
+        },
+        {
+            "name": "p5",
+            "size": 64,
+            "stype": "float32"
+        },
+        {
+            "name": "p6",
+            "size": 5120,
+            "stype": "float32"
+        },
+        {
+            "name": "p7",
+            "size": 80,
+            "stype": "float32"
+        },
+        {
+            "name": "p8",
+            "size": 245760,
+            "stype": "float32"
+        },
+        {
+            "name": "p9",
+            "size": 192,
+            "stype": "float32"
+        },
+        {
+            "name": "p10",
+            "size": 12288,
+            "stype": "float32"
+        },
+        {
+            "name": "p11",
+            "size": 64,
+            "stype": "float32"
+        },
+        {
+            "name": "p12",
+            "size": 9216,
+            "stype": "float32"
+        },
+        {
+            "name": "p13",
+            "size": 48,
+            "stype": "float32"
+        },
+        {
+            "name": "null",
+            "size": 117600,
+            "stype": "float32"
+        },
+        {
+            "name": "p14",
+            "size": 76800,
+            "stype": "float32"
+        },
+        {
+            "name": "p15",
+            "size": 64,
+            "stype": "float32"
+        },
+        {
+            "name": "null",
+            "size": 78400,
+            "stype": "float32"
+        },
+        {
+            "name": "p16",
+            "size": 12288,
+            "stype": "float32"
+        },
+        {
+            "name": "p17",
+            "size": 64,
+            "stype": "float32"
+        },
+        {
+            "name": "p18",
+            "size": 98304,
+            "stype": "float32"
+        },
+        {
+            "name": "p19",
+            "size": 96,
+            "stype": "float32"
+        },
+        {
+            "name": "null",
+            "size": 352800,
+            "stype": "float32"
+        },
+        {
+            "name": "p20",
+            "size": 147456,
+            "stype": "float32"
+        },
+        {
+            "name": "p21",
+            "size": 96,
+            "stype": "float32"
+        },
+        {
+            "name": "p22",
+            "size": 6144,
+            "stype": "float32"
+        },
+        {
+            "name": "p23",
+            "size": 32,
+            "stype": "float32"
+        },
+        {
+            "name": "null",
+            "size": 78400,
+            "stype": "float32"
+        },
+        {
+            "name": "p24",
+            "size": 16384,
+            "stype": "float32"
+        },
+        {
+            "name": "p25",
+            "size": 64,
+            "stype": "float32"
+        },
+        {
+            "name": "p26",
+            "size": 12288,
+            "stype": "float32"
+        },
+        {
+            "name": "p27",
+            "size": 48,
+            "stype": "float32"
+        },
+        {
+            "name": "p28",
+            "size": 76800,
+            "stype": "float32"
+        },
+        {
+            "name": "p29",
+            "size": 64,
+            "stype": "float32"
+        },
+        {
+            "name": "p30",
+            "size": 16384,
+            "stype": "float32"
+        },
+        {
+            "name": "p31",
+            "size": 64,
+            "stype": "float32"
+        },
+        {
+            "name": "p32",
+            "size": 98304,
+            "stype": "float32"
+        },
+        {
+            "name": "p33",
+            "size": 96,
+            "stype": "float32"
+        },
+        {
+            "name": "p34",
+            "size": 147456,
+            "stype": "float32"
+        },
+        {
+            "name": "p35",
+            "size": 96,
+            "stype": "float32"
+        },
+        {
+            "name": "p36",
+            "size": 16384,
+            "stype": "float32"
+        },
+        {
+            "name": "p37",
+            "size": 64,
+            "stype": "float32"
+        },
+        {
+            "name": "p38",
+            "size": 18432,
+            "stype": "float32"
+        },
+        {
+            "name": "p39",
+            "size": 64,
+            "stype": "float32"
+        },
+        {
+            "name": "p40",
+            "size": 13824,
+            "stype": "float32"
+        },
+        {
+            "name": "p41",
+            "size": 48,
+            "stype": "float32"
+        },
+        {
+            "name": "p42",
+            "size": 76800,
+            "stype": "float32"
+        },
+        {
+            "name": "p43",
+            "size": 64,
+            "stype": "float32"
+        },
+        {
+            "name": "p44",
+            "size": 18432,
+            "stype": "float32"
+        },
+        {
+            "name": "p45",
+            "size": 64,
+            "stype": "float32"
+        },
+        {
+            "name": "p46",
+            "size": 98304,
+            "stype": "float32"
+        },
+        {
+            "name": "p47",
+            "size": 96,
+            "stype": "float32"
+        },
+        {
+            "name": "p48",
+            "size": 147456,
+            "stype": "float32"
+        },
+        {
+            "name": "p49",
+            "size": 96,
+            "stype": "float32"
+        },
+        {
+            "name": "p50",
+            "size": 18432,
+            "stype": "float32"
+        },
+        {
+            "name": "p51",
+            "size": 64,
+            "stype": "float32"
+        },
+        {
+            "name": "p52",
+            "size": 995328,
+            "stype": "float32"
+        },
+        {
+            "name": "p53",
+            "size": 384,
+            "stype": "float32"
+        },
+        {
+            "name": "p54",
+            "size": 18432,
+            "stype": "float32"
+        },
+        {
+            "name": "p55",
+            "size": 64,
+            "stype": "float32"
+        },
+        {
+            "name": "p56",
+            "size": 98304,
+            "stype": "float32"
+        },
+        {
+            "name": "p57",
+            "size": 96,
+            "stype": "float32"
+        },
+        {
+            "name": "p58",
+            "size": 82944,
+            "stype": "float32"
+        },
+        {
+            "name": "p59",
+            "size": 96,
+            "stype": "float32"
+        },
+        {
+            "name": "p60",
+            "size": 147456,
+            "stype": "float32"
+        },
+        {
+            "name": "p61",
+            "size": 192,
+            "stype": "float32"
+        },
+        {
+            "name": "p62",
+            "size": 98304,
+            "stype": "float32"
+        },
+        {
+            "name": "p63",
+            "size": 128,
+            "stype": "float32"
+        },
+        {
+            "name": "p64",
+            "size": 114688,
+            "stype": "float32"
+        },
+        {
+            "name": "p65",
+            "size": 128,
+            "stype": "float32"
+        },
+        {
+            "name": "p66",
+            "size": 172032,
+            "stype": "float32"
+        },
+        {
+            "name": "p67",
+            "size": 192,
+            "stype": "float32"
+        },
+        {
+            "name": "p68",
+            "size": 98304,
+            "stype": "float32"
+        },
+        {
+            "name": "p69",
+            "size": 128,
+            "stype": "float32"
+        },
+        {
+            "name": "p70",
+            "size": 114688,
+            "stype": "float32"
+        },
+        {
+            "name": "p71",
+            "size": 128,
+            "stype": "float32"
+        },
+        {
+            "name": "null",
+            "size": 55488,
+            "stype": "float32"
+        },
+        {
+            "name": "p72",
+            "size": 114688,
+            "stype": "float32"
+        },
+        {
+            "name": "p73",
+            "size": 128,
+            "stype": "float32"
+        },
+        {
+            "name": "p74",
+            "size": 114688,
+            "stype": "float32"
+        },
+        {
+            "name": "p75",
+            "size": 128,
+            "stype": "float32"
+        },
+        {
+            "name": "p76",
+            "size": 172032,
+            "stype": "float32"
+        },
+        {
+            "name": "p77",
+            "size": 192,
+            "stype": "float32"
+        },
+        {
+            "name": "p78",
+            "size": 147456,
+            "stype": "float32"
+        },
+        {
+            "name": "p79",
+            "size": 192,
+            "stype": "float32"
+        },
+        {
+            "name": "p80",
+            "size": 147456,
+            "stype": "float32"
+        },
+        {
+            "name": "p81",
+            "size": 192,
+            "stype": "float32"
+        },
+        {
+            "name": "p82",
+            "size": 122880,
+            "stype": "float32"
+        },
+        {
+            "name": "p83",
+            "size": 160,
+            "stype": "float32"
+        },
+        {
+            "name": "p84",
+            "size": 179200,
+            "stype": "float32"
+        },
+        {
+            "name": "p85",
+            "size": 160,
+            "stype": "float32"
+        },
+        {
+            "name": "p86",
+            "size": 215040,
+            "stype": "float32"
+        },
+        {
+            "name": "p87",
+            "size": 192,
+            "stype": "float32"
+        },
+        {
+            "name": "p88",
+            "size": 122880,
+            "stype": "float32"
+        },
+        {
+            "name": "p89",
+            "size": 160,
+            "stype": "float32"
+        },
+        {
+            "name": "p90",
+            "size": 179200,
+            "stype": "float32"
+        },
+        {
+            "name": "p91",
+            "size": 160,
+            "stype": "float32"
+        },
+        {
+            "name": "p92",
+            "size": 179200,
+            "stype": "float32"
+        },
+        {
+            "name": "p93",
+            "size": 160,
+            "stype": "float32"
+        },
+        {
+            "name": "p94",
+            "size": 179200,
+            "stype": "float32"
+        },
+        {
+            "name": "p95",
+            "size": 160,
+            "stype": "float32"
+        },
+        {
+            "name": "p96",
+            "size": 215040,
+            "stype": "float32"
+        },
+        {
+            "name": "p97",
+            "size": 192,
+            "stype": "float32"
+        },
+        {
+            "name": "p98",
+            "size": 147456,
+            "stype": "float32"
+        },
+        {
+            "name": "p99",
+            "size": 192,
+            "stype": "float32"
+        },
+        {
+            "name": "p100",
+            "size": 147456,
+            "stype": "float32"
+        },
+        {
+            "name": "p101",
+            "size": 192,
+            "stype": "float32"
+        },
+        {
+            "name": "p102",
+            "size": 122880,
+            "stype": "float32"
+        },
+        {
+            "name": "p103",
+            "size": 160,
+            "stype": "float32"
+        },
+        {
+            "name": "p104",
+            "size": 179200,
+            "stype": "float32"
+        },
+        {
+            "name": "p105",
+            "size": 160,
+            "stype": "float32"
+        },
+        {
+            "name": "p106",
+            "size": 215040,
+            "stype": "float32"
+        },
+        {
+            "name": "p107",
+            "size": 192,
+            "stype": "float32"
+        },
+        {
+            "name": "p108",
+            "size": 122880,
+            "stype": "float32"
+        },
+        {
+            "name": "p109",
+            "size": 160,
+            "stype": "float32"
+        },
+        {
+            "name": "p110",
+            "size": 179200,
+            "stype": "float32"
+        },
+        {
+            "name": "p111",
+            "size": 160,
+            "stype": "float32"
+        },
+        {
+            "name": "p112",
+            "size": 179200,
+            "stype": "float32"
+        },
+        {
+            "name": "p113",
+            "size": 160,
+            "stype": "float32"
+        },
+        {
+            "name": "p114",
+            "size": 179200,
+            "stype": "float32"
+        },
+        {
+            "name": "p115",
+            "size": 160,
+            "stype": "float32"
+        },
+        {
+            "name": "p116",
+            "size": 215040,
+            "stype": "float32"
+        },
+        {
+            "name": "p117",
+            "size": 192,
+            "stype": "float32"
+        },
+        {
+            "name": "p118",
+            "size": 147456,
+            "stype": "float32"
+        },
+        {
+            "name": "p119",
+            "size": 192,
+            "stype": "float32"
+        },
+        {
+            "name": "p120",
+            "size": 147456,
+            "stype": "float32"
+        },
+        {
+            "name": "p121",
+            "size": 192,
+            "stype": "float32"
+        },
+        {
+            "name": "p122",
+            "size": 147456,
+            "stype": "float32"
+        },
+        {
+            "name": "p123",
+            "size": 192,
+            "stype": "float32"
+        },
+        {
+            "name": "p124",
+            "size": 258048,
+            "stype": "float32"
+        },
+        {
+            "name": "p125",
+            "size": 192,
+            "stype": "float32"
+        },
+        {
+            "name": "p126",
+            "size": 258048,
+            "stype": "float32"
+        },
+        {
+            "name": "p127",
+            "size": 192,
+            "stype": "float32"
+        },
+        {
+            "name": "p128",
+            "size": 147456,
+            "stype": "float32"
+        },
+        {
+            "name": "p129",
+            "size": 192,
+            "stype": "float32"
+        },
+        {
+            "name": "p130",
+            "size": 258048,
+            "stype": "float32"
+        },
+        {
+            "name": "p131",
+            "size": 192,
+            "stype": "float32"
+        },
+        {
+            "name": "p132",
+            "size": 258048,
+            "stype": "float32"
+        },
+        {
+            "name": "p133",
+            "size": 192,
+            "stype": "float32"
+        },
+        {
+            "name": "p134",
+            "size": 258048,
+            "stype": "float32"
+        },
+        {
+            "name": "p135",
+            "size": 192,
+            "stype": "float32"
+        },
+        {
+            "name": "p136",
+            "size": 258048,
+            "stype": "float32"
+        },
+        {
+            "name": "p137",
+            "size": 192,
+            "stype": "float32"
+        },
+        {
+            "name": "p138",
+            "size": 147456,
+            "stype": "float32"
+        },
+        {
+            "name": "p139",
+            "size": 192,
+            "stype": "float32"
+        },
+        {
+            "name": "p140",
+            "size": 147456,
+            "stype": "float32"
+        },
+        {
+            "name": "p141",
+            "size": 192,
+            "stype": "float32"
+        },
+        {
+            "name": "p142",
+            "size": 552960,
+            "stype": "float32"
+        },
+        {
+            "name": "p143",
+            "size": 320,
+            "stype": "float32"
+        },
+        {
+            "name": "p144",
+            "size": 147456,
+            "stype": "float32"
+        },
+        {
+            "name": "p145",
+            "size": 192,
+            "stype": "float32"
+        },
+        {
+            "name": "p146",
+            "size": 258048,
+            "stype": "float32"
+        },
+        {
+            "name": "p147",
+            "size": 192,
+            "stype": "float32"
+        },
+        {
+            "name": "p148",
+            "size": 258048,
+            "stype": "float32"
+        },
+        {
+            "name": "p149",
+            "size": 192,
+            "stype": "float32"
+        },
+        {
+            "name": "p150",
+            "size": 331776,
+            "stype": "float32"
+        },
+        {
+            "name": "p151",
+            "size": 192,
+            "stype": "float32"
+        },
+        {
+            "name": "p152",
+            "size": 409600,
+            "stype": "float32"
+        },
+        {
+            "name": "p153",
+            "size": 320,
+            "stype": "float32"
+        },
+        {
+            "name": "p154",
+            "size": 491520,
+            "stype": "float32"
+        },
+        {
+            "name": "p155",
+            "size": 384,
+            "stype": "float32"
+        },
+        {
+            "name": "p156",
+            "size": 442368,
+            "stype": "float32"
+        },
+        {
+            "name": "p157",
+            "size": 384,
+            "stype": "float32"
+        },
+        {
+            "name": "p158",
+            "size": 442368,
+            "stype": "float32"
+        },
+        {
+            "name": "p159",
+            "size": 384,
+            "stype": "float32"
+        },
+        {
+            "name": "p160",
+            "size": 573440,
+            "stype": "float32"
+        },
+        {
+            "name": "p161",
+            "size": 448,
+            "stype": "float32"
+        },
+        {
+            "name": "p162",
+            "size": 6193152,
+            "stype": "float32"
+        },
+        {
+            "name": "p163",
+            "size": 384,
+            "stype": "float32"
+        },
+        {
+            "name": "null",
+            "size": 24576,
+            "stype": "float32"
+        },
+        {
+            "name": "p164",
+            "size": 442368,
+            "stype": "float32"
+        },
+        {
+            "name": "p165",
+            "size": 384,
+            "stype": "float32"
+        },
+        {
+            "name": "p166",
+            "size": 442368,
+            "stype": "float32"
+        },
+        {
+            "name": "p167",
+            "size": 384,
+            "stype": "float32"
+        },
+        {
+            "name": "null",
+            "size": 24576,
+            "stype": "float32"
+        },
+        {
+            "name": "p168",
+            "size": 245760,
+            "stype": "float32"
+        },
+        {
+            "name": "p169",
+            "size": 192,
+            "stype": "float32"
+        },
+        {
+            "name": "p170",
+            "size": 655360,
+            "stype": "float32"
+        },
+        {
+            "name": "p171",
+            "size": 320,
+            "stype": "float32"
+        },
+        {
+            "name": "p172",
+            "size": 786432,
+            "stype": "float32"
+        },
+        {
+            "name": "p173",
+            "size": 384,
+            "stype": "float32"
+        },
+        {
+            "name": "p174",
+            "size": 442368,
+            "stype": "float32"
+        },
+        {
+            "name": "p175",
+            "size": 384,
+            "stype": "float32"
+        },
+        {
+            "name": "p176",
+            "size": 442368,
+            "stype": "float32"
+        },
+        {
+            "name": "p177",
+            "size": 384,
+            "stype": "float32"
+        },
+        {
+            "name": "p178",
+            "size": 917504,
+            "stype": "float32"
+        },
+        {
+            "name": "p179",
+            "size": 448,
+            "stype": "float32"
+        },
+        {
+            "name": "p180",
+            "size": 6193152,
+            "stype": "float32"
+        },
+        {
+            "name": "p181",
+            "size": 384,
+            "stype": "float32"
+        },
+        {
+            "name": "p182",
+            "size": 442368,
+            "stype": "float32"
+        },
+        {
+            "name": "p183",
+            "size": 384,
+            "stype": "float32"
+        },
+        {
+            "name": "p184",
+            "size": 442368,
+            "stype": "float32"
+        },
+        {
+            "name": "p185",
+            "size": 384,
+            "stype": "float32"
+        },
+        {
+            "name": "p186",
+            "size": 393216,
+            "stype": "float32"
+        },
+        {
+            "name": "p187",
+            "size": 192,
+            "stype": "float32"
+        },
+        {
+            "name": "p188",
+            "size": 2048000,
+            "stype": "float32"
+        },
+        {
+            "name": "p189",
+            "size": 1000,
+            "stype": "float32"
+        },
+        {
+            "name": "null",
+            "size": 1000,
+            "stype": "float32"
+        },
+        {
+            "name": "output",
+            "size": 1000,
+            "stype": "float32"
+        },
+        {
+            "name": "temp_arg",
+            "size": 22429696,
+            "stype": "byte"
+        },
+        {
+            "name": "temp_arg",
+            "size": 11214848,
+            "stype": "byte"
+        }
+    ],
+    "kernels": [
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_9_kernel0",
+            "launch_params": [
+                1,
+                149,
+                1,
+                149,
+                1,
+                1
+            ],
+            "args": [
+                0,
+                1,
+                3,
+                2
+            ]
+        },
+        {
+            "name": "fused_nn_contrib_conv2d_winograd_without_weight_transform_add_nn_relu_2_kernel0",
+            "launch_params": [
+                1369,
+                1,
+                1,
+                128,
+                1,
+                1
+            ],
+            "args": [
+                3,
+                203
+            ]
+        },
+        {
+            "name": "fused_nn_contrib_conv2d_winograd_without_weight_transform_add_nn_relu_2_kernel1",
+            "launch_params": [
+                37,
+                1,
+                16,
+                37,
+                8,
+                1
+            ],
+            "args": [
+                4,
+                203,
+                202
+            ]
+        },
+        {
+            "name": "fused_nn_contrib_conv2d_winograd_without_weight_transform_add_nn_relu_2_kernel2",
+            "launch_params": [
+                1369,
+                1,
+                1,
+                128,
+                1,
+                1
+            ],
+            "args": [
+                202,
+                6,
+                5
+            ]
+        },
+        {
+            "name": "fused_nn_contrib_conv2d_winograd_without_weight_transform_add_nn_relu_1_kernel0",
+            "launch_params": [
+                1369,
+                1,
+                1,
+                128,
+                1,
+                1
+            ],
+            "args": [
+                6,
+                203
+            ]
+        },
+        {
+            "name": "fused_nn_contrib_conv2d_winograd_without_weight_transform_add_nn_relu_1_kernel1",
+            "launch_params": [
+                37,
+                2,
+                16,
+                37,
+                8,
+                1
+            ],
+            "args": [
+                7,
+                203,
+                202
+            ]
+        },
+        {
+            "name": "fused_nn_contrib_conv2d_winograd_without_weight_transform_add_nn_relu_1_kernel2",
+            "launch_params": [
+                2738,
+                1,
+                1,
+                128,
+                1,
+                1
+            ],
+            "args": [
+                202,
+                3,
+                8
+            ]
+        },
+        {
+            "name": "fused_nn_max_pool2d_6_kernel0",
+            "launch_params": [
+                1333,
+                1,
+                1,
+                256,
+                1,
+                1
+            ],
+            "args": [
+                3,
+                6
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_8_kernel0",
+            "launch_params": [
+                1,
+                73,
+                4,
+                73,
+                1,
+                4
+            ],
+            "args": [
+                6,
+                9,
+                3,
+                10
+            ]
+        },
+        {
+            "name": "fused_nn_contrib_conv2d_winograd_without_weight_transform_add_nn_relu_kernel0",
+            "launch_params": [
+                810,
+                1,
+                1,
+                128,
+                1,
+                1
+            ],
+            "args": [
+                3,
+                203
+            ]
+        },
+        {
+            "name": "fused_nn_contrib_conv2d_winograd_without_weight_transform_add_nn_relu_kernel1",
+            "launch_params": [
+                27,
+                2,
+                16,
+                16,
+                12,
+                1
+            ],
+            "args": [
+                11,
+                203,
+                202
+            ]
+        },
+        {
+            "name": "fused_nn_contrib_conv2d_winograd_without_weight_transform_add_nn_relu_kernel2",
+            "launch_params": [
+                1944,
+                1,
+                1,
+                128,
+                1,
+                1
+            ],
+            "args": [
+                202,
+                6,
+                12
+            ]
+        },
+        {
+            "name": "fused_nn_max_pool2d_5_kernel0",
+            "launch_params": [
+                919,
+                1,
+                1,
+                256,
+                1,
+                1
+            ],
+            "args": [
+                6,
+                3
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_7_kernel0",
+            "launch_params": [
+                7,
+                7,
+                2,
+                5,
+                5,
+                32
+            ],
+            "args": [
+                3,
+                13,
+                6,
+                14
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_11_kernel0",
+            "launch_params": [
+                7,
+                7,
+                1,
+                5,
+                5,
+                16
+            ],
+            "args": [
+                3,
+                15,
+                17,
+                16
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_10_kernel0",
+            "launch_params": [
+                7,
+                7,
+                8,
+                5,
+                5,
+                2
+            ],
+            "args": [
+                17,
+                18,
+                20,
+                19
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_7_kernel0",
+            "launch_params": [
+                7,
+                7,
+                2,
+                5,
+                5,
+                32
+            ],
+            "args": [
+                3,
+                21,
+                17,
+                22
+            ]
+        },
+        {
+            "name": "fused_nn_contrib_conv2d_winograd_without_weight_transform_add_nn_relu_4_kernel0",
+            "launch_params": [
+                162,
+                1,
+                1,
+                128,
+                1,
+                1
+            ],
+            "args": [
+                17,
+                203
+            ]
+        },
+        {
+            "name": "fused_nn_contrib_conv2d_winograd_without_weight_transform_add_nn_relu_4_kernel1",
+            "launch_params": [
+                27,
+                1,
+                16,
+                6,
+                16,
+                1
+            ],
+            "args": [
+                23,
+                203,
+                202
+            ]
+        },
+        {
+            "name": "fused_nn_contrib_conv2d_winograd_without_weight_transform_add_nn_relu_4_kernel2",
+            "launch_params": [
+                243,
+                1,
+                1,
+                128,
+                1,
+                1
+            ],
+            "args": [
+                202,
+                25,
+                24
+            ]
+        },
+        {
+            "name": "fused_nn_contrib_conv2d_winograd_without_weight_transform_add_nn_relu_3_kernel0",
+            "launch_params": [
+                243,
+                1,
+                1,
+                128,
+                1,
+                1
+            ],
+            "args": [
+                25,
+                203
+            ]
+        },
+        {
+            "name": "fused_nn_contrib_conv2d_winograd_without_weight_transform_add_nn_relu_3_kernel1",
+            "launch_params": [
+                3,
+                4,
+                16,
+                27,
+                8,
+                1
+            ],
+            "args": [
+                26,
+                203,
+                202
+            ]
+        },
+        {
+            "name": "fused_nn_contrib_conv2d_winograd_without_weight_transform_add_nn_relu_3_kernel2",
+            "launch_params": [
+                243,
+                1,
+                1,
+                128,
+                1,
+                1
+            ],
+            "args": [
+                202,
+                17,
+                27
+            ]
+        },
+        {
+            "name": "fused_nn_avg_pool2d_7_kernel0",
+            "launch_params": [
+                919,
+                1,
+                1,
+                256,
+                1,
+                1
+            ],
+            "args": [
+                3,
+                25
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_12_kernel0",
+            "launch_params": [
+                7,
+                7,
+                1,
+                5,
+                5,
+                32
+            ],
+            "args": [
+                25,
+                28,
+                30,
+                29
+            ]
+        },
+        {
+            "name": "fused_concatenate_11_kernel0",
+            "launch_params": [
+                256,
+                1,
+                1,
+                256,
+                1,
+                1
+            ],
+            "args": [
+                3,
+                30,
+                17,
+                20,
+                6
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_6_kernel0",
+            "launch_params": [
+                5,
+                5,
+                2,
+                7,
+                7,
+                16
+            ],
+            "args": [
+                3,
+                31,
+                20,
+                32
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_13_kernel0",
+            "launch_params": [
+                1,
+                35,
+                3,
+                35,
+                1,
+                8
+            ],
+            "args": [
+                3,
+                33,
+                17,
+                34
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_10_kernel0",
+            "launch_params": [
+                7,
+                7,
+                8,
+                5,
+                5,
+                2
+            ],
+            "args": [
+                17,
+                35,
+                25,
+                36
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_6_kernel0",
+            "launch_params": [
+                5,
+                5,
+                2,
+                7,
+                7,
+                16
+            ],
+            "args": [
+                3,
+                37,
+                17,
+                38
+            ]
+        },
+        {
+            "name": "fused_nn_contrib_conv2d_winograd_without_weight_transform_add_nn_relu_4_kernel0",
+            "launch_params": [
+                162,
+                1,
+                1,
+                128,
+                1,
+                1
+            ],
+            "args": [
+                17,
+                203
+            ]
+        },
+        {
+            "name": "fused_nn_contrib_conv2d_winograd_without_weight_transform_add_nn_relu_4_kernel1",
+            "launch_params": [
+                27,
+                1,
+                16,
+                6,
+                16,
+                1
+            ],
+            "args": [
+                39,
+                203,
+                202
+            ]
+        },
+        {
+            "name": "fused_nn_contrib_conv2d_winograd_without_weight_transform_add_nn_relu_4_kernel2",
+            "launch_params": [
+                243,
+                1,
+                1,
+                128,
+                1,
+                1
+            ],
+            "args": [
+                202,
+                6,
+                40
+            ]
+        },
+        {
+            "name": "fused_nn_contrib_conv2d_winograd_without_weight_transform_add_nn_relu_3_kernel0",
+            "launch_params": [
+                243,
+                1,
+                1,
+                128,
+                1,
+                1
+            ],
+            "args": [
+                6,
+                203
+            ]
+        },
+        {
+            "name": "fused_nn_contrib_conv2d_winograd_without_weight_transform_add_nn_relu_3_kernel1",
+            "launch_params": [
+                3,
+                4,
+                16,
+                27,
+                8,
+                1
+            ],
+            "args": [
+                41,
+                203,
+                202
+            ]
+        },
+        {
+            "name": "fused_nn_contrib_conv2d_winograd_without_weight_transform_add_nn_relu_3_kernel2",
+            "launch_params": [
+                243,
+                1,
+                1,
+                128,
+                1,
+                1
+            ],
+            "args": [
+                202,
+                17,
+                42
+            ]
+        },
+        {
+            "name": "fused_nn_avg_pool2d_8_kernel0",
+            "launch_params": [
+                1225,
+                1,
+                1,
+                256,
+                1,
+                1
+            ],
+            "args": [
+                3,
+                6
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_6_kernel0",
+            "launch_params": [
+                5,
+                5,
+                2,
+                7,
+                7,
+                16
+            ],
+            "args": [
+                6,
+                43,
+                30,
+                44
+            ]
+        },
+        {
+            "name": "fused_concatenate_10_kernel0",
+            "launch_params": [
+                256,
+                1,
+                1,
+                256,
+                1,
+                1
+            ],
+            "args": [
+                6,
+                30,
+                17,
+                25,
+                20
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_5_kernel0",
+            "launch_params": [
+                7,
+                7,
+                2,
+                5,
+                5,
+                32
+            ],
+            "args": [
+                6,
+                45,
+                20,
+                46
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_14_kernel0",
+            "launch_params": [
+                7,
+                7,
+                2,
+                5,
+                5,
+                24
+            ],
+            "args": [
+                6,
+                47,
+                30,
+                48
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_10_kernel0",
+            "launch_params": [
+                7,
+                7,
+                8,
+                5,
+                5,
+                2
+            ],
+            "args": [
+                30,
+                49,
+                17,
+                50
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_5_kernel0",
+            "launch_params": [
+                7,
+                7,
+                2,
+                5,
+                5,
+                32
+            ],
+            "args": [
+                6,
+                51,
+                30,
+                52
+            ]
+        },
+        {
+            "name": "fused_nn_contrib_conv2d_winograd_without_weight_transform_add_nn_relu_4_kernel0",
+            "launch_params": [
+                162,
+                1,
+                1,
+                128,
+                1,
+                1
+            ],
+            "args": [
+                30,
+                203
+            ]
+        },
+        {
+            "name": "fused_nn_contrib_conv2d_winograd_without_weight_transform_add_nn_relu_4_kernel1",
+            "launch_params": [
+                27,
+                1,
+                16,
+                6,
+                16,
+                1
+            ],
+            "args": [
+                53,
+                203,
+                202
+            ]
+        },
+        {
+            "name": "fused_nn_contrib_conv2d_winograd_without_weight_transform_add_nn_relu_4_kernel2",
+            "launch_params": [
+                243,
+                1,
+                1,
+                128,
+                1,
+                1
+            ],
+            "args": [
+                202,
+                25,
+                54
+            ]
+        },
+        {
+            "name": "fused_nn_contrib_conv2d_winograd_without_weight_transform_add_nn_relu_3_kernel0",
+            "launch_params": [
+                243,
+                1,
+                1,
+                128,
+                1,
+                1
+            ],
+            "args": [
+                25,
+                203
+            ]
+        },
+        {
+            "name": "fused_nn_contrib_conv2d_winograd_without_weight_transform_add_nn_relu_3_kernel1",
+            "launch_params": [
+                3,
+                4,
+                16,
+                27,
+                8,
+                1
+            ],
+            "args": [
+                55,
+                203,
+                202
+            ]
+        },
+        {
+            "name": "fused_nn_contrib_conv2d_winograd_without_weight_transform_add_nn_relu_3_kernel2",
+            "launch_params": [
+                243,
+                1,
+                1,
+                128,
+                1,
+                1
+            ],
+            "args": [
+                202,
+                3,
+                56
+            ]
+        },
+        {
+            "name": "fused_nn_avg_pool2d_9_kernel0",
+            "launch_params": [
+                1379,
+                1,
+                1,
+                256,
+                1,
+                1
+            ],
+            "args": [
+                6,
+                25
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_5_kernel0",
+            "launch_params": [
+                7,
+                7,
+                2,
+                5,
+                5,
+                32
+            ],
+            "args": [
+                25,
+                57,
+                30,
+                58
+            ]
+        },
+        {
+            "name": "fused_concatenate_10_kernel0",
+            "launch_params": [
+                256,
+                1,
+                1,
+                256,
+                1,
+                1
+            ],
+            "args": [
+                25,
+                30,
+                3,
+                17,
+                20
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_4_kernel0",
+            "launch_params": [
+                1,
+                17,
+                16,
+                17,
+                1,
+                6
+            ],
+            "args": [
+                25,
+                59,
+                17,
+                60
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_5_kernel0",
+            "launch_params": [
+                7,
+                7,
+                2,
+                5,
+                5,
+                32
+            ],
+            "args": [
+                25,
+                61,
+                20,
+                62
+            ]
+        },
+        {
+            "name": "fused_nn_contrib_conv2d_winograd_without_weight_transform_add_nn_relu_4_kernel0",
+            "launch_params": [
+                162,
+                1,
+                1,
+                128,
+                1,
+                1
+            ],
+            "args": [
+                20,
+                203
+            ]
+        },
+        {
+            "name": "fused_nn_contrib_conv2d_winograd_without_weight_transform_add_nn_relu_4_kernel1",
+            "launch_params": [
+                27,
+                1,
+                16,
+                6,
+                16,
+                1
+            ],
+            "args": [
+                63,
+                203,
+                202
+            ]
+        },
+        {
+            "name": "fused_nn_contrib_conv2d_winograd_without_weight_transform_add_nn_relu_4_kernel2",
+            "launch_params": [
+                243,
+                1,
+                1,
+                128,
+                1,
+                1
+            ],
+            "args": [
+                202,
+                6,
+                64
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_15_kernel0",
+            "launch_params": [
+                1,
+                17,
+                3,
+                17,
+                1,
+                32
+            ],
+            "args": [
+                6,
+                65,
+                30,
+                66
+            ]
+        },
+        {
+            "name": "fused_nn_max_pool2d_7_kernel0",
+            "launch_params": [
+                326,
+                1,
+                1,
+                256,
+                1,
+                1
+            ],
+            "args": [
+                25,
+                6
+            ]
+        },
+        {
+            "name": "fused_concatenate_9_kernel0",
+            "launch_params": [
+                256,
+                1,
+                1,
+                256,
+                1,
+                1
+            ],
+            "args": [
+                25,
+                6,
+                30,
+                17
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_3_kernel0",
+            "launch_params": [
+                1,
+                17,
+                6,
+                17,
+                1,
+                32
+            ],
+            "args": [
+                25,
+                67,
+                20,
+                68
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_18_kernel0",
+            "launch_params": [
+                1,
+                17,
+                8,
+                17,
+                1,
+                16
+            ],
+            "args": [
+                25,
+                69,
+                30,
+                70
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_17_kernel0",
+            "launch_params": [
+                1,
+                17,
+                16,
+                17,
+                1,
+                4
+            ],
+            "args": [
+                30,
+                71,
+                17,
+                72
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_16_kernel0",
+            "launch_params": [
+                1,
+                1,
+                48,
+                17,
+                17,
+                2
+            ],
+            "args": [
+                17,
+                73,
+                30,
+                74
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_18_kernel0",
+            "launch_params": [
+                1,
+                17,
+                8,
+                17,
+                1,
+                16
+            ],
+            "args": [
+                25,
+                75,
+                17,
+                76
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_20_kernel0",
+            "launch_params": [
+                1,
+                1,
+                32,
+                17,
+                17,
+                2
+            ],
+            "args": [
+                17,
+                77,
+                79,
+                78
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_17_kernel0",
+            "launch_params": [
+                1,
+                17,
+                16,
+                17,
+                1,
+                4
+            ],
+            "args": [
+                79,
+                80,
+                17,
+                81
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_20_kernel0",
+            "launch_params": [
+                1,
+                1,
+                32,
+                17,
+                17,
+                2
+            ],
+            "args": [
+                17,
+                82,
+                79,
+                83
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_19_kernel0",
+            "launch_params": [
+                1,
+                17,
+                16,
+                17,
+                1,
+                3
+            ],
+            "args": [
+                79,
+                84,
+                17,
+                85
+            ]
+        },
+        {
+            "name": "fused_nn_avg_pool2d_10_kernel0",
+            "launch_params": [
+                867,
+                1,
+                1,
+                256,
+                1,
+                1
+            ],
+            "args": [
+                25,
+                6
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_3_kernel0",
+            "launch_params": [
+                1,
+                17,
+                6,
+                17,
+                1,
+                32
+            ],
+            "args": [
+                6,
+                86,
+                25,
+                87
+            ]
+        },
+        {
+            "name": "fused_concatenate_8_kernel0",
+            "launch_params": [
+                256,
+                1,
+                1,
+                256,
+                1,
+                1
+            ],
+            "args": [
+                6,
+                25,
+                17,
+                30,
+                20
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_3_kernel0",
+            "launch_params": [
+                1,
+                17,
+                6,
+                17,
+                1,
+                32
+            ],
+            "args": [
+                6,
+                88,
+                20,
+                89
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_23_kernel0",
+            "launch_params": [
+                1,
+                17,
+                10,
+                17,
+                1,
+                16
+            ],
+            "args": [
+                6,
+                90,
+                30,
+                91
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_22_kernel0",
+            "launch_params": [
+                1,
+                17,
+                10,
+                17,
+                1,
+                4
+            ],
+            "args": [
+                30,
+                92,
+                17,
+                93
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_21_kernel0",
+            "launch_params": [
+                1,
+                17,
+                6,
+                17,
+                1,
+                32
+            ],
+            "args": [
+                17,
+                94,
+                30,
+                95
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_23_kernel0",
+            "launch_params": [
+                1,
+                17,
+                10,
+                17,
+                1,
+                16
+            ],
+            "args": [
+                6,
+                96,
+                17,
+                97
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_25_kernel0",
+            "launch_params": [
+                1,
+                17,
+                5,
+                17,
+                1,
+                32
+            ],
+            "args": [
+                17,
+                98,
+                25,
+                99
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_22_kernel0",
+            "launch_params": [
+                1,
+                17,
+                10,
+                17,
+                1,
+                4
+            ],
+            "args": [
+                25,
+                100,
+                17,
+                101
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_25_kernel0",
+            "launch_params": [
+                1,
+                17,
+                5,
+                17,
+                1,
+                32
+            ],
+            "args": [
+                17,
+                102,
+                25,
+                103
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_24_kernel0",
+            "launch_params": [
+                1,
+                17,
+                16,
+                17,
+                1,
+                3
+            ],
+            "args": [
+                25,
+                104,
+                17,
+                105
+            ]
+        },
+        {
+            "name": "fused_nn_avg_pool2d_10_kernel0",
+            "launch_params": [
+                867,
+                1,
+                1,
+                256,
+                1,
+                1
+            ],
+            "args": [
+                6,
+                25
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_3_kernel0",
+            "launch_params": [
+                1,
+                17,
+                6,
+                17,
+                1,
+                32
+            ],
+            "args": [
+                25,
+                106,
+                79,
+                107
+            ]
+        },
+        {
+            "name": "fused_concatenate_8_kernel0",
+            "launch_params": [
+                256,
+                1,
+                1,
+                256,
+                1,
+                1
+            ],
+            "args": [
+                25,
+                79,
+                17,
+                30,
+                20
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_3_kernel0",
+            "launch_params": [
+                1,
+                17,
+                6,
+                17,
+                1,
+                32
+            ],
+            "args": [
+                25,
+                108,
+                79,
+                109
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_23_kernel0",
+            "launch_params": [
+                1,
+                17,
+                10,
+                17,
+                1,
+                16
+            ],
+            "args": [
+                25,
+                110,
+                20,
+                111
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_22_kernel0",
+            "launch_params": [
+                1,
+                17,
+                10,
+                17,
+                1,
+                4
+            ],
+            "args": [
+                20,
+                112,
+                30,
+                113
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_21_kernel0",
+            "launch_params": [
+                1,
+                17,
+                6,
+                17,
+                1,
+                32
+            ],
+            "args": [
+                30,
+                114,
+                20,
+                115
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_23_kernel0",
+            "launch_params": [
+                1,
+                17,
+                10,
+                17,
+                1,
+                16
+            ],
+            "args": [
+                25,
+                116,
+                30,
+                117
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_25_kernel0",
+            "launch_params": [
+                1,
+                17,
+                5,
+                17,
+                1,
+                32
+            ],
+            "args": [
+                30,
+                118,
+                17,
+                119
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_22_kernel0",
+            "launch_params": [
+                1,
+                17,
+                10,
+                17,
+                1,
+                4
+            ],
+            "args": [
+                17,
+                120,
+                30,
+                121
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_25_kernel0",
+            "launch_params": [
+                1,
+                17,
+                5,
+                17,
+                1,
+                32
+            ],
+            "args": [
+                30,
+                122,
+                17,
+                123
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_24_kernel0",
+            "launch_params": [
+                1,
+                17,
+                16,
+                17,
+                1,
+                3
+            ],
+            "args": [
+                17,
+                124,
+                30,
+                125
+            ]
+        },
+        {
+            "name": "fused_nn_avg_pool2d_10_kernel0",
+            "launch_params": [
+                867,
+                1,
+                1,
+                256,
+                1,
+                1
+            ],
+            "args": [
+                25,
+                6
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_3_kernel0",
+            "launch_params": [
+                1,
+                17,
+                6,
+                17,
+                1,
+                32
+            ],
+            "args": [
+                6,
+                126,
+                17,
+                127
+            ]
+        },
+        {
+            "name": "fused_concatenate_8_kernel0",
+            "launch_params": [
+                256,
+                1,
+                1,
+                256,
+                1,
+                1
+            ],
+            "args": [
+                25,
+                17,
+                30,
+                20,
+                79
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_3_kernel0",
+            "launch_params": [
+                1,
+                17,
+                6,
+                17,
+                1,
+                32
+            ],
+            "args": [
+                25,
+                128,
+                79,
+                129
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_3_kernel0",
+            "launch_params": [
+                1,
+                17,
+                6,
+                17,
+                1,
+                32
+            ],
+            "args": [
+                25,
+                130,
+                20,
+                131
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_27_kernel0",
+            "launch_params": [
+                1,
+                17,
+                16,
+                17,
+                1,
+                3
+            ],
+            "args": [
+                20,
+                132,
+                30,
+                133
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_26_kernel0",
+            "launch_params": [
+                1,
+                17,
+                6,
+                17,
+                1,
+                16
+            ],
+            "args": [
+                30,
+                134,
+                20,
+                135
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_3_kernel0",
+            "launch_params": [
+                1,
+                17,
+                6,
+                17,
+                1,
+                32
+            ],
+            "args": [
+                25,
+                136,
+                30,
+                137
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_26_kernel0",
+            "launch_params": [
+                1,
+                17,
+                6,
+                17,
+                1,
+                16
+            ],
+            "args": [
+                30,
+                138,
+                17,
+                139
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_27_kernel0",
+            "launch_params": [
+                1,
+                17,
+                16,
+                17,
+                1,
+                3
+            ],
+            "args": [
+                17,
+                140,
+                30,
+                141
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_26_kernel0",
+            "launch_params": [
+                1,
+                17,
+                6,
+                17,
+                1,
+                16
+            ],
+            "args": [
+                30,
+                142,
+                17,
+                143
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_27_kernel0",
+            "launch_params": [
+                1,
+                17,
+                16,
+                17,
+                1,
+                3
+            ],
+            "args": [
+                17,
+                144,
+                30,
+                145
+            ]
+        },
+        {
+            "name": "fused_nn_avg_pool2d_10_kernel0",
+            "launch_params": [
+                867,
+                1,
+                1,
+                256,
+                1,
+                1
+            ],
+            "args": [
+                25,
+                6
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_3_kernel0",
+            "launch_params": [
+                1,
+                17,
+                6,
+                17,
+                1,
+                32
+            ],
+            "args": [
+                6,
+                146,
+                17,
+                147
+            ]
+        },
+        {
+            "name": "fused_concatenate_8_kernel0",
+            "launch_params": [
+                256,
+                1,
+                1,
+                256,
+                1,
+                1
+            ],
+            "args": [
+                25,
+                17,
+                30,
+                20,
+                79
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_3_kernel0",
+            "launch_params": [
+                1,
+                17,
+                6,
+                17,
+                1,
+                32
+            ],
+            "args": [
+                25,
+                148,
+                79,
+                149
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_2_kernel0",
+            "launch_params": [
+                1,
+                4,
+                32,
+                4,
+                2,
+                5
+            ],
+            "args": [
+                79,
+                150,
+                20,
+                151
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_3_kernel0",
+            "launch_params": [
+                1,
+                17,
+                6,
+                17,
+                1,
+                32
+            ],
+            "args": [
+                25,
+                152,
+                79,
+                153
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_27_kernel0",
+            "launch_params": [
+                1,
+                17,
+                16,
+                17,
+                1,
+                3
+            ],
+            "args": [
+                79,
+                154,
+                30,
+                155
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_26_kernel0",
+            "launch_params": [
+                1,
+                17,
+                6,
+                17,
+                1,
+                16
+            ],
+            "args": [
+                30,
+                156,
+                79,
+                157
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_28_kernel0",
+            "launch_params": [
+                8,
+                1,
+                12,
+                1,
+                8,
+                8
+            ],
+            "args": [
+                79,
+                158,
+                30,
+                159
+            ]
+        },
+        {
+            "name": "fused_nn_max_pool2d_8_kernel0",
+            "launch_params": [
+                192,
+                1,
+                1,
+                256,
+                1,
+                1
+            ],
+            "args": [
+                25,
+                79
+            ]
+        },
+        {
+            "name": "fused_concatenate_7_kernel0",
+            "launch_params": [
+                256,
+                1,
+                1,
+                256,
+                1,
+                1
+            ],
+            "args": [
+                17,
+                79,
+                30,
+                20
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_1_kernel0",
+            "launch_params": [
+                1,
+                1,
+                40,
+                8,
+                8,
+                8
+            ],
+            "args": [
+                17,
+                160,
+                79,
+                161
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_30_kernel0",
+            "launch_params": [
+                1,
+                2,
+                24,
+                8,
+                4,
+                16
+            ],
+            "args": [
+                17,
+                162,
+                20,
+                163
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_29_kernel0",
+            "launch_params": [
+                2,
+                2,
+                24,
+                2,
+                4,
+                16
+            ],
+            "args": [
+                20,
+                164,
+                30,
+                165
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_31_kernel0",
+            "launch_params": [
+                2,
+                1,
+                24,
+                4,
+                8,
+                16
+            ],
+            "args": [
+                20,
+                166,
+                25,
+                167
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_32_kernel0",
+            "launch_params": [
+                1,
+                2,
+                28,
+                8,
+                4,
+                16
+            ],
+            "args": [
+                17,
+                168,
+                20,
+                169
+            ]
+        },
+        {
+            "name": "fused_nn_contrib_conv2d_winograd_without_weight_transform_add_nn_relu_5_kernel0",
+            "launch_params": [
+                14,
+                1,
+                1,
+                128,
+                1,
+                1
+            ],
+            "args": [
+                20,
+                202
+            ]
+        },
+        {
+            "name": "fused_nn_contrib_conv2d_winograd_without_weight_transform_add_nn_relu_5_kernel1",
+            "launch_params": [
+                1,
+                6,
+                36,
+                2,
+                64,
+                1
+            ],
+            "args": [
+                170,
+                202,
+                203
+            ]
+        },
+        {
+            "name": "fused_nn_contrib_conv2d_winograd_without_weight_transform_add_nn_relu_5_kernel2",
+            "launch_params": [
+                12,
+                1,
+                1,
+                128,
+                1,
+                1
+            ],
+            "args": [
+                203,
+                172,
+                171
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_29_kernel0",
+            "launch_params": [
+                2,
+                2,
+                24,
+                2,
+                4,
+                16
+            ],
+            "args": [
+                172,
+                173,
+                20,
+                174
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_31_kernel0",
+            "launch_params": [
+                2,
+                1,
+                24,
+                4,
+                8,
+                16
+            ],
+            "args": [
+                172,
+                175,
+                177,
+                176
+            ]
+        },
+        {
+            "name": "fused_nn_avg_pool2d_11_kernel0",
+            "launch_params": [
+                320,
+                1,
+                1,
+                256,
+                1,
+                1
+            ],
+            "args": [
+                17,
+                6
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_33_kernel0",
+            "launch_params": [
+                1,
+                4,
+                12,
+                8,
+                2,
+                16
+            ],
+            "args": [
+                6,
+                178,
+                172,
+                179
+            ]
+        },
+        {
+            "name": "fused_concatenate_6_kernel0",
+            "launch_params": [
+                256,
+                1,
+                1,
+                256,
+                1,
+                1
+            ],
+            "args": [
+                6,
+                172,
+                177,
+                20,
+                25,
+                30,
+                79
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_kernel0",
+            "launch_params": [
+                1,
+                1,
+                40,
+                8,
+                8,
+                8
+            ],
+            "args": [
+                6,
+                180,
+                177,
+                181
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_34_kernel0",
+            "launch_params": [
+                2,
+                2,
+                48,
+                4,
+                4,
+                4
+            ],
+            "args": [
+                6,
+                182,
+                172,
+                183
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_29_kernel0",
+            "launch_params": [
+                2,
+                2,
+                24,
+                2,
+                4,
+                16
+            ],
+            "args": [
+                172,
+                184,
+                79,
+                185
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_31_kernel0",
+            "launch_params": [
+                2,
+                1,
+                24,
+                4,
+                8,
+                16
+            ],
+            "args": [
+                172,
+                186,
+                30,
+                187
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_35_kernel0",
+            "launch_params": [
+                1,
+                4,
+                56,
+                8,
+                2,
+                4
+            ],
+            "args": [
+                6,
+                188,
+                20,
+                189
+            ]
+        },
+        {
+            "name": "fused_nn_contrib_conv2d_winograd_without_weight_transform_add_nn_relu_5_kernel0",
+            "launch_params": [
+                14,
+                1,
+                1,
+                128,
+                1,
+                1
+            ],
+            "args": [
+                20,
+                202
+            ]
+        },
+        {
+            "name": "fused_nn_contrib_conv2d_winograd_without_weight_transform_add_nn_relu_5_kernel1",
+            "launch_params": [
+                1,
+                6,
+                36,
+                2,
+                64,
+                1
+            ],
+            "args": [
+                190,
+                202,
+                203
+            ]
+        },
+        {
+            "name": "fused_nn_contrib_conv2d_winograd_without_weight_transform_add_nn_relu_5_kernel2",
+            "launch_params": [
+                12,
+                1,
+                1,
+                128,
+                1,
+                1
+            ],
+            "args": [
+                203,
+                172,
+                191
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_29_kernel0",
+            "launch_params": [
+                2,
+                2,
+                24,
+                2,
+                4,
+                16
+            ],
+            "args": [
+                172,
+                192,
+                20,
+                193
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_31_kernel0",
+            "launch_params": [
+                2,
+                1,
+                24,
+                4,
+                8,
+                16
+            ],
+            "args": [
+                172,
+                194,
+                17,
+                195
+            ]
+        },
+        {
+            "name": "fused_nn_max_pool2d_9_kernel0",
+            "launch_params": [
+                512,
+                1,
+                1,
+                256,
+                1,
+                1
+            ],
+            "args": [
+                6,
+                25
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_add_nn_relu_36_kernel0",
+            "launch_params": [
+                1,
+                4,
+                24,
+                8,
+                2,
+                8
+            ],
+            "args": [
+                25,
+                196,
+                172,
+                197
+            ]
+        },
+        {
+            "name": "fused_concatenate_6_kernel0",
+            "launch_params": [
+                256,
+                1,
+                1,
+                256,
+                1,
+                1
+            ],
+            "args": [
+                25,
+                172,
+                17,
+                20,
+                30,
+                79,
+                177
+            ]
+        },
+        {
+            "name": "fused_nn_avg_pool2d_6_kernel0",
+            "launch_params": [
+                8,
+                1,
+                1,
+                256,
+                1,
+                1
+            ],
+            "args": [
+                25,
+                177
+            ]
+        },
+        {
+            "name": "fused_nn_batch_flatten_1_kernel0",
+            "launch_params": [
+                8,
+                1,
+                1,
+                256,
+                1,
+                1
+            ],
+            "args": [
+                172,
+                177
+            ]
+        },
+        {
+            "name": "fused_nn_dense_add_kernel0",
+            "launch_params": [
+                1000,
+                1,
+                1,
+                64,
+                1,
+                1
+            ],
+            "args": [
+                172,
+                198,
+                200,
+                199
+            ]
+        },
+        {
+            "name": "fused_nn_softmax_1_kernel0",
+            "launch_params": [
+                1,
+                1,
+                1,
+                64,
+                1,
+                1
+            ],
+            "args": [
+                200,
+                201
+            ]
+        }
+    ],
+    "args": [
+        0,
+        1,
+        2,
+        4,
+        5,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        18,
+        19,
+        21,
+        22,
+        23,
+        24,
+        26,
+        27,
+        28,
+        29,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103,
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153,
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170,
+        171,
+        173,
+        174,
+        175,
+        176,
+        178,
+        179,
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189,
+        190,
+        191,
+        192,
+        193,
+        194,
+        195,
+        196,
+        197,
+        198,
+        199
+    ],
+    "shared_memory": {
+        "fused_nn_contrib_conv2d_winograd_without_weight_transform_add_nn_relu_2_kernel2": 4,
+        "fused_nn_conv2d_add_nn_relu_27_kernel0": 2572,
+        "fused_concatenate_11_kernel0": 4,
+        "fused_nn_contrib_conv2d_winograd_without_weight_transform_add_nn_relu_4_kernel2": 4,
+        "fused_nn_contrib_conv2d_winograd_without_weight_transform_add_nn_relu_2_kernel0": 4,
+        "fused_nn_conv2d_add_nn_relu_7_kernel0": 5476,
+        "fused_nn_conv2d_add_nn_relu_34_kernel0": 3076,
+        "fused_nn_max_pool2d_7_kernel0": 4,
+        "fused_nn_avg_pool2d_11_kernel0": 4,
+        "fused_nn_max_pool2d_6_kernel0": 4,
+        "fused_nn_contrib_conv2d_winograd_without_weight_transform_add_nn_relu_1_kernel1": 5764,
+        "fused_nn_contrib_conv2d_winograd_without_weight_transform_add_nn_relu_4_kernel1": 6916,
+        "fused_concatenate_9_kernel0": 4,
+        "fused_nn_conv2d_add_nn_relu_3_kernel0": 9412,
+        "fused_nn_avg_pool2d_9_kernel0": 4,
+        "fused_nn_contrib_conv2d_winograd_without_weight_transform_add_nn_relu_5_kernel0": 4,
+        "fused_nn_contrib_conv2d_winograd_without_weight_transform_add_nn_relu_1_kernel0": 4,
+        "fused_nn_conv2d_add_nn_relu_29_kernel0": 9220,
+        "fused_nn_conv2d_add_nn_relu_33_kernel0": 32772,
+        "fused_nn_conv2d_add_nn_relu_23_kernel0": 2116,
+        "fused_nn_conv2d_add_nn_relu_26_kernel0": 16468,
+        "fused_nn_avg_pool2d_10_kernel0": 4,
+        "fused_nn_contrib_conv2d_winograd_without_weight_transform_add_nn_relu_kernel2": 4,
+        "fused_nn_max_pool2d_8_kernel0": 4,
+        "fused_nn_conv2d_add_nn_relu_kernel0": 18436,
+        "fused_nn_dense_add_kernel0": 8,
+        "fused_nn_contrib_conv2d_winograd_without_weight_transform_add_nn_relu_5_kernel1": 8708,
+        "fused_nn_conv2d_add_nn_relu_14_kernel0": 4708,
+        "fused_nn_conv2d_add_nn_relu_9_kernel0": 4744,
+        "fused_nn_conv2d_add_nn_relu_24_kernel0": 4284,
+        "fused_concatenate_7_kernel0": 4,
+        "fused_nn_conv2d_add_nn_relu_32_kernel0": 24580,
+        "fused_nn_conv2d_add_nn_relu_4_kernel0": 5140,
+        "fused_nn_conv2d_add_nn_relu_17_kernel0": 636,
+        "fused_concatenate_8_kernel0": 4,
+        "fused_nn_conv2d_add_nn_relu_10_kernel0": 2252,
+        "fused_nn_contrib_conv2d_winograd_without_weight_transform_add_nn_relu_1_kernel2": 4,
+        "fused_nn_contrib_conv2d_winograd_without_weight_transform_add_nn_relu_3_kernel0": 4,
+        "fused_nn_conv2d_add_nn_relu_2_kernel0": 11204,
+        "fused_nn_conv2d_add_nn_relu_11_kernel0": 14020,
+        "fused_nn_contrib_conv2d_winograd_without_weight_transform_add_nn_relu_kernel1": 4612,
+        "fused_nn_avg_pool2d_8_kernel0": 4,
+        "fused_nn_conv2d_add_nn_relu_21_kernel0": 13724,
+        "fused_nn_contrib_conv2d_winograd_without_weight_transform_add_nn_relu_kernel0": 4,
+        "fused_concatenate_6_kernel0": 4,
+        "fused_nn_conv2d_add_nn_relu_8_kernel0": 1492,
+        "fused_nn_contrib_conv2d_winograd_without_weight_transform_add_nn_relu_4_kernel0": 4,
+        "fused_nn_conv2d_add_nn_relu_22_kernel0": 10804,
+        "fused_nn_conv2d_add_nn_relu_12_kernel0": 5476,
+        "fused_nn_batch_flatten_1_kernel0": 4,
+        "fused_nn_max_pool2d_9_kernel0": 4,
+        "fused_nn_contrib_conv2d_winograd_without_weight_transform_add_nn_relu_3_kernel1": 12676,
+        "fused_nn_conv2d_add_nn_relu_30_kernel0": 24580,
+        "fused_nn_conv2d_add_nn_relu_6_kernel0": 5188,
+        "fused_nn_contrib_conv2d_winograd_without_weight_transform_add_nn_relu_2_kernel1": 5764,
+        "fused_nn_conv2d_add_nn_relu_16_kernel0": 13412,
+        "fused_nn_conv2d_add_nn_relu_31_kernel0": 11268,
+        "fused_nn_contrib_conv2d_winograd_without_weight_transform_add_nn_relu_5_kernel2": 4,
+        "fused_nn_conv2d_add_nn_relu_25_kernel0": 13724,
+        "fused_nn_avg_pool2d_6_kernel0": 4,
+        "fused_nn_conv2d_add_nn_relu_35_kernel0": 6148,
+        "fused_nn_contrib_conv2d_winograd_without_weight_transform_add_nn_relu_3_kernel2": 4,
+        "fused_nn_avg_pool2d_7_kernel0": 4,
+        "fused_nn_conv2d_add_nn_relu_1_kernel0": 18436,
+        "fused_nn_conv2d_add_nn_relu_18_kernel0": 2116,
+        "fused_nn_conv2d_add_nn_relu_28_kernel0": 12484,
+        "fused_nn_max_pool2d_5_kernel0": 4,
+        "fused_nn_softmax_1_kernel0": 4,
+        "fused_nn_conv2d_add_nn_relu_5_kernel0": 5476,
+        "fused_nn_conv2d_add_nn_relu_36_kernel0": 24580,
+        "fused_concatenate_10_kernel0": 4,
+        "fused_nn_conv2d_add_nn_relu_15_kernel0": 9364,
+        "fused_nn_conv2d_add_nn_relu_13_kernel0": 3268,
+        "fused_nn_conv2d_add_nn_relu_20_kernel0": 13412,
+        "fused_nn_conv2d_add_nn_relu_19_kernel0": 1716
+    }
+}

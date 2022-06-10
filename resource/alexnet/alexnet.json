@@ -1,0 +1,321 @@
+{
+    "storage": [
+        {
+            "name": "data",
+            "size": 150528,
+            "stype": "float32"
+        },
+        {
+            "name": "conv_1_weight",
+            "size": 34848,
+            "stype": "float32"
+        },
+        {
+            "name": "conv_2_weight",
+            "size": 614400,
+            "stype": "float32"
+        },
+        {
+            "name": "conv_3_weight",
+            "size": 884736,
+            "stype": "float32"
+        },
+        {
+            "name": "conv_4_weight",
+            "size": 1327104,
+            "stype": "float32"
+        },
+        {
+            "name": "conv_5_weight",
+            "size": 884736,
+            "stype": "float32"
+        },
+        {
+            "name": "dense_1_weight",
+            "size": 26214400,
+            "stype": "float32"
+        },
+        {
+            "name": "bias_1_weight",
+            "size": 4096,
+            "stype": "float32"
+        },
+        {
+            "name": "dense_2_weight",
+            "size": 16777216,
+            "stype": "float32"
+        },
+        {
+            "name": "bias_2_weight",
+            "size": 4096,
+            "stype": "float32"
+        },
+        {
+            "name": "dense_3_weight",
+            "size": 4096000,
+            "stype": "float32"
+        },
+        {
+            "name": "bias_3_weight",
+            "size": 1000,
+            "stype": "float32"
+        },
+        {
+            "name": "null",
+            "size": 279936,
+            "stype": "float32"
+        },
+        {
+            "name": "null",
+            "size": 64896,
+            "stype": "float32"
+        },
+        {
+            "name": "output",
+            "size": 6400,
+            "stype": "float32"
+        },
+        {
+            "name": "null",
+            "size": 1000,
+            "stype": "float32"
+        }
+    ],
+    "kernels": [
+        {
+            "name": "fused_nn_conv2d_nn_relu_4_kernel0",
+            "launch_params": [
+                27,
+                9,
+                12,
+                2,
+                6,
+                8
+            ],
+            "args": [
+                0,
+                1,
+                12
+            ]
+        },
+        {
+            "name": "fused_nn_max_pool2d_2_kernel0",
+            "launch_params": [
+                507,
+                1,
+                1,
+                128,
+                1,
+                1
+            ],
+            "args": [
+                12,
+                13
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_nn_relu_3_kernel0",
+            "launch_params": [
+                13,
+                13,
+                32,
+                2,
+                2,
+                4
+            ],
+            "args": [
+                13,
+                2,
+                12
+            ]
+        },
+        {
+            "name": "fused_nn_max_pool2d_1_kernel0",
+            "launch_params": [
+                288,
+                1,
+                1,
+                128,
+                1,
+                1
+            ],
+            "args": [
+                12,
+                13
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_nn_relu_2_kernel0",
+            "launch_params": [
+                3,
+                6,
+                12,
+                4,
+                2,
+                32
+            ],
+            "args": [
+                13,
+                3,
+                12
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_nn_relu_1_kernel0",
+            "launch_params": [
+                3,
+                6,
+                12,
+                4,
+                2,
+                32
+            ],
+            "args": [
+                12,
+                4,
+                13
+            ]
+        },
+        {
+            "name": "fused_nn_conv2d_nn_relu_kernel0",
+            "launch_params": [
+                3,
+                6,
+                8,
+                4,
+                2,
+                32
+            ],
+            "args": [
+                13,
+                5,
+                12
+            ]
+        },
+        {
+            "name": "fused_nn_max_pool2d_kernel0",
+            "launch_params": [
+                50,
+                1,
+                1,
+                128,
+                1,
+                1
+            ],
+            "args": [
+                12,
+                13
+            ]
+        },
+        {
+            "name": "fused_nn_batch_flatten_kernel0",
+            "launch_params": [
+                50,
+                1,
+                1,
+                128,
+                1,
+                1
+            ],
+            "args": [
+                14,
+                13
+            ]
+        },
+        {
+            "name": "fused_nn_dense_add_nn_relu_1_kernel0",
+            "launch_params": [
+                4096,
+                1,
+                1,
+                64,
+                1,
+                1
+            ],
+            "args": [
+                14,
+                6,
+                13,
+                7
+            ]
+        },
+        {
+            "name": "fused_nn_dense_add_nn_relu_kernel0",
+            "launch_params": [
+                4096,
+                1,
+                1,
+                64,
+                1,
+                1
+            ],
+            "args": [
+                13,
+                8,
+                14,
+                9
+            ]
+        },
+        {
+            "name": "fused_nn_dense_add_kernel0",
+            "launch_params": [
+                1000,
+                1,
+                1,
+                64,
+                1,
+                1
+            ],
+            "args": [
+                14,
+                10,
+                15,
+                11
+            ]
+        },
+        {
+            "name": "fused_nn_softmax_kernel0",
+            "launch_params": [
+                1,
+                1,
+                1,
+                64,
+                1,
+                1
+            ],
+            "args": [
+                15,
+                14
+            ]
+        }
+    ],
+    "args": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11
+    ],
+    "shared_memory": {
+        "fused_nn_max_pool2d_kernel0": 4,
+        "fused_nn_softmax_kernel0": 4,
+        "fused_nn_conv2d_nn_relu_3_kernel0": 944,
+        "fused_nn_conv2d_nn_relu_1_kernel0": 9984,
+        "fused_nn_dense_add_kernel0": 4,
+        "fused_nn_max_pool2d_2_kernel0": 4,
+        "fused_nn_dense_add_nn_relu_1_kernel0": 4,
+        "fused_nn_conv2d_nn_relu_4_kernel0": 1356,
+        "fused_nn_max_pool2d_1_kernel0": 4,
+        "fused_nn_conv2d_nn_relu_2_kernel0": 9984,
+        "fused_nn_batch_flatten_kernel0": 4,
+        "fused_nn_conv2d_nn_relu_kernel0": 9984,
+        "fused_nn_dense_add_nn_relu_kernel0": 4
+    }
+}

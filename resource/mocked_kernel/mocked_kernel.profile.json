@@ -1,0 +1,1 @@
+{"model_latency":30,"kernel_latency":{"multiply":{"total_latency":16, "latency":[14,14,14,14,14,14,14,14,14,14,14,14,14,14,14,14]},"add":{"total_latency":16, "latency":[16,14,14,14,14,14,14,14,14,14,14,14,16,14,14,14]}}}
