@@ -27,8 +27,21 @@ the running BE kernels and clearing the queued BE kernels, which is bases on the
 * *Dynamic Kernel Padding(DKP):* BE tasks can be co-executed with the RT task by only using the CUs leftover from the RT kernels. This approach can improve the throughput and avoid starvation of BE tasks with minimal latency overhead on RT tasks.
 
 ## Paper
-
-TBD
+If you use REEF in your research, please cite our paper:
+```bibtex
+@inproceedings {osdi2022reef,
+  author = {Mingcong Han and Hanze Zhang and Rong Chen and Haibo Chen},
+  title = {Microsecond-scale Preemption for Concurrent {GPU-accelerated} {DNN} Inferences},
+  booktitle = {16th USENIX Symposium on Operating Systems Design and Implementation (OSDI 22)},
+  year = {2022},
+  isbn = {978-1-939133-28-1},
+  address = {Carlsbad, CA},
+  pages = {539--558},
+  url = {https://www.usenix.org/conference/osdi22/presentation/han},
+  publisher = {USENIX Association},
+  month = jul,
+}
+```
 
 ## REEF Example
 
