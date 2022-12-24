@@ -26,23 +26,6 @@ the running BE kernels and clearing the queued BE kernels, which is bases on the
 
 * *Dynamic Kernel Padding(DKP):* BE tasks can be co-executed with the RT task by only using the CUs leftover from the RT kernels. This approach can improve the throughput and avoid starvation of BE tasks with minimal latency overhead on RT tasks.
 
-## Paper
-If you use REEF in your research, please cite our paper:
-```bibtex
-@inproceedings {osdi2022reef,
-  author = {Mingcong Han and Hanze Zhang and Rong Chen and Haibo Chen},
-  title = {Microsecond-scale Preemption for Concurrent {GPU-accelerated} {DNN} Inferences},
-  booktitle = {16th USENIX Symposium on Operating Systems Design and Implementation (OSDI 22)},
-  year = {2022},
-  isbn = {978-1-939133-28-1},
-  address = {Carlsbad, CA},
-  pages = {539--558},
-  url = {https://www.usenix.org/conference/osdi22/presentation/han},
-  publisher = {USENIX Association},
-  month = jul,
-}
-```
-
 ## REEF Example
 
 After [building REEF](INSTALL.md), the example below can show how REEF works when there are concurrent tasks (one RT and multiple BEs).
@@ -127,3 +110,29 @@ see [INSTALL](INSTALL.md).
 ## Artifact Evaluation
 
 For OSDI'22 atrifact evaluation, see [reef-artifacts](https://github.com/SJTU-IPADS/reef-artifacts).
+
+## Paper
+If you use REEF in your research, please cite our paper:
+```bibtex
+@inproceedings {osdi2022reef,
+  author = {Mingcong Han and Hanze Zhang and Rong Chen and Haibo Chen},
+  title = {Microsecond-scale Preemption for Concurrent {GPU-accelerated} {DNN} Inferences},
+  booktitle = {16th USENIX Symposium on Operating Systems Design and Implementation (OSDI 22)},
+  year = {2022},
+  isbn = {978-1-939133-28-1},
+  address = {Carlsbad, CA},
+  pages = {539--558},
+  url = {https://www.usenix.org/conference/osdi22/presentation/han},
+  publisher = {USENIX Association},
+  month = jul,
+}
+```
+
+## The Team
+
+REEF is developed and maintained by members from [IPADS@SJTU](https://github.com/SJTU-IPADS) and Shanghai AI Laboratory. See [Contributors](CONTRIBUTORS.md).
+
+
+## License
+
+REEF uses [Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0.html).
